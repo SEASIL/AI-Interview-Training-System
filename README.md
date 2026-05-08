@@ -29,14 +29,17 @@ Practice job interviews with instant AI feedback — no human coach needed.
 
 ### Phase 1: Setup & Landing
 > **Customizable Interview Environment:** Configure target roles, toggle AI engines, and set emotion capture intervals.
+
 ![Landing Page](assets/landing_page.png.png)
 
 ### Phase 2: Live Interview Session
 > **Real-Time Interaction:** Integrated voice-to-text input with a live webcam feed for automated emotion tracking using OpenCV.
+
 ![Main Dashboard](assets/main_dashboard.jpg.jpeg)
 
 ### Phase 3: Analytics & Feedback
 > **NLP Scoring Dashboard:** Comprehensive breakdown of performance metrics including Confidence, Structure (STAR), and Length analysis.
+
 ![Results Page](assets/results_page.png.png)
 
 ---
